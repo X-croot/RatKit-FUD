@@ -15,21 +15,6 @@ Any malicious use, damage, or unauthorized activity is considered a crime.
 
 ---
 
-## **📦 Contents**
-
-This repository contains the following files:
-
-```
-compiler.sh
-crypter.py
-loader.cpp
-loader-obfs.cpp
-obfuscation.py
-requirements.txt
-signer.py
-```
-
----
 
 ### **Dependencies:**
 
@@ -68,6 +53,7 @@ The crypter will export the encrypted payload in **C++ format**.
 ```bash
 python crypter.py
 ```
+<img width="893" height="711" alt="resim" src="https://github.com/user-attachments/assets/42c633b7-0816-4821-bf27-afd3a1db1128" />
 
 This step will:
 
@@ -75,6 +61,7 @@ This step will:
 - Export **key**, **nonce**, **ciphertext**, and **tag** in C++ format.
 
 ---
+<img width="480" height="324" alt="resim" src="https://github.com/user-attachments/assets/d7c16e63-e399-450c-8275-1b52d84eda06" />
 
 ### **3. Obfuscation (Optional)**
 
@@ -86,6 +73,7 @@ python obfuscation.py
 ```
 
 ---
+<img width="578" height="396" alt="resim" src="https://github.com/user-attachments/assets/b1eadb10-448c-4a01-a7e7-02bc2787d3dc" />
 
 ### **4. Compile with MinGW32**
 
@@ -100,6 +88,7 @@ chmod +x compiler.sh
 **Note:** Make sure you have the necessary tools installed on your system to meet the script's dependencies.
 
 ---
+<img width="476" height="366" alt="resim" src="https://github.com/user-attachments/assets/046ac01e-7cf2-4ec7-a816-15b9e3a3ad17" />
 
 ### **5. Sign (Optional)**
 
