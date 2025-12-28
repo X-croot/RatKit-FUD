@@ -12,7 +12,8 @@ This tool is intended for **ethical security testing** (pentesting), training, a
 Any **unauthorized use on systems or networks** is illegal and can have serious legal consequences.  
 By using this tool, you accept full responsibility for your actions.  
 Any malicious use, damage, or unauthorized activity is considered a crime.
-<img width="1299" height="940" alt="resim" src="https://github.com/user-attachments/assets/6108c3e5-4845-44a8-9758-bf1bb3fdfaee" />
+<img width="1400" height="863" alt="resim" src="https://github.com/user-attachments/assets/902eb3be-803c-4134-ba70-cdcc972c580a" />
+
 
 ---
 
