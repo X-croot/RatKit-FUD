@@ -1,7 +1,7 @@
 
 # **RatKit-FUD**
 
-**90% FUD Crypter, Shellcode Loader, and Obfuscation Tool**  
+**85% FUD Crypter, Shellcode Loader, and Obfuscation Tool**  
 For authorized penetration testing and educational purposes only.
 
 ---
